@@ -1,6 +1,7 @@
 # Project-Real-State
 
 Tableau: https://public.tableau.com/views/project22_16445181703860/Historia1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 Real State - Barcelona
 Where can you live in Barcelona for less than 700 euros per month? In this project I am going to analyze the evolution that the city has experienced in recent years, focusing on rent, the value of houses and the demographic profile of the inhabitants. I have created this project to reflect with data the gentrification movement that is taking place in Spain and that is causing people to have to leave their homes so that they can be used for tourism at a higher price. It seems that this problem is also moving to my city, Malaga, so I have decided to study the problem from the origin to be prepared and create an action plan from the citizen's conscience.
 
